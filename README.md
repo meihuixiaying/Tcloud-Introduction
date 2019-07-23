@@ -1,3 +1,7 @@
+## 云真机
+>		在当今共享时代下，怎么能没有自己的共享移动平台呢？云真机平台的开发，让测试机更高效的被使用，当测试机器不在使用的时候，会作为共享机供给开发作为调试机，初步统计在160日活的基础上，云真机器使用费用一个月预计节省6万
+![image](https://github.com/meihuixiaying/Tcloud-Introduction/blob/master/Tcloud_8.gif)
+
 ## Dashboard
 >		展示根据时间区间统计每个版本的issue数量，新增数量，打开数量的统计报表；
 >		展示bug状态分布饼状图；
@@ -24,7 +28,6 @@
 
 ## 缺陷管理&需求管理
 >		在迭代管理中已经初步看到了缺陷和需求的功能和界面展示，两个大的模块是使用比较频繁的，因此单独列出来，迭代管理中的缺陷和需求，更加匹配迭代版本，满足不一样的用户群
-
 ![image](https://github.com/meihuixiaying/Tcloud-Introduction/blob/master/Tcloud_5.gif)
 
 ## 流程管理
@@ -38,15 +41,10 @@
 >		在httprunner的基础上做了二次开发，展示效果如下
 ![image](https://github.com/meihuixiaying/Tcloud-Introduction/blob/master/Tcloud_7.gif)
 
-## 云真机
->		在当今共享时代下，怎么能没有自己的共享移动平台呢？云真机平台的开发，让测试机更高效的被使用，当测试机器不在使用的时候，会作为共享机供给开发作为调试机，初步统计在160日活的基础上，云真机器使用费用一个月预计节省6万
-![image](https://github.com/meihuixiaying/Tcloud-Introduction/blob/master/Tcloud_8.gif)
-
 ## 持续集成
 >		通过jenkins or 流程系统自动执行的自动化测试数据展示
 ![image](https://github.com/meihuixiaying/Tcloud-Introduction/blob/master/Tcloud_9.gif)
 
 ## 团队活跃
 >		在团队迅猛扩张时，每到月末统计工作产出的时候，就比较头疼，测试工程师的日常产出又无法一行一列的描述的清楚，因此通过平台化的记录下来，创建的bug，新增的用例等信息都能很明白的记录，也算作是一个日常工作的参考。
-
 ![image](https://github.com/meihuixiaying/Tcloud-Introduction/blob/master/Tcloud_10.gif)
